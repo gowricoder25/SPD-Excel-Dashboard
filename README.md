@@ -1,6 +1,6 @@
-# SPD-Excel-Dashboard
+# SPD-Excel-dataset
 
-### SPD Dashboard
+### Student Performance Predictions
 
 In this SPD Dashboard I have upload a sample dashboard. In this i have worked on this features.
 Exploratory Data Analysis (EDA) – Visualize the impact of study hours, attendance, and other features.
